@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/leo_taha/taha_arc_cpp/build/src",
+  "command": "/usr/bin/c++  -I/home/leo_taha/taha_arc_cpp/include -O3 -DNDEBUG -std=c++17 -o CMakeFiles/orderbook.dir/orderbook.cpp.o -c /home/leo_taha/taha_arc_cpp/src/orderbook.cpp",
+  "file": "/home/leo_taha/taha_arc_cpp/src/orderbook.cpp",
+  "output": "src/CMakeFiles/orderbook.dir/orderbook.cpp.o"
+},
+{
+  "directory": "/home/leo_taha/taha_arc_cpp/build/examples",
+  "command": "/usr/bin/c++  -I/home/leo_taha/taha_arc_cpp/include -O3 -DNDEBUG -std=c++17 -o CMakeFiles/orderbook_demo.dir/demo.cpp.o -c /home/leo_taha/taha_arc_cpp/examples/demo.cpp",
+  "file": "/home/leo_taha/taha_arc_cpp/examples/demo.cpp",
+  "output": "examples/CMakeFiles/orderbook_demo.dir/demo.cpp.o"
+},
+{
+  "directory": "/home/leo_taha/taha_arc_cpp/build/tests",
+  "command": "/usr/bin/c++  -I/home/leo_taha/taha_arc_cpp/include -O3 -DNDEBUG -std=c++17 -o CMakeFiles/orderbook_tests.dir/orderbook_tests.cpp.o -c /home/leo_taha/taha_arc_cpp/tests/orderbook_tests.cpp",
+  "file": "/home/leo_taha/taha_arc_cpp/tests/orderbook_tests.cpp",
+  "output": "tests/CMakeFiles/orderbook_tests.dir/orderbook_tests.cpp.o"
+},
+{
+  "directory": "/home/leo_taha/taha_arc_cpp/build/benchmarks",
+  "command": "/usr/bin/c++  -I/home/leo_taha/taha_arc_cpp/include -O3 -DNDEBUG -std=c++17 -o CMakeFiles/orderbook_benchmark.dir/orderbook_benchmark.cpp.o -c /home/leo_taha/taha_arc_cpp/benchmarks/orderbook_benchmark.cpp",
+  "file": "/home/leo_taha/taha_arc_cpp/benchmarks/orderbook_benchmark.cpp",
+  "output": "benchmarks/CMakeFiles/orderbook_benchmark.dir/orderbook_benchmark.cpp.o"
+}
+]
