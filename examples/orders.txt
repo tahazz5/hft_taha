@@ -1,0 +1,6 @@
+# command id side price quantity [GTC|IOC|FOK]
+ADD 1 ASK 100 10
+EXECUTE 2 BID 100 4
+MODIFY 1 ASK 101 6
+ADD 3 BID 99 2
+CANCEL 3

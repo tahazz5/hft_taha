@@ -7,3 +7,10 @@ build/
 *.a
 *.so
 compile_commands.json
+
+# Local connector environments and credentials
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
