@@ -1,5 +1,0 @@
-/home/leo_taha/taha_arc_cpp/build/CMakeFiles/orderbook_tests.dir
-/home/leo_taha/taha_arc_cpp/build/CMakeFiles/orderbook_benchmark.dir
-/home/leo_taha/taha_arc_cpp/build/CMakeFiles/test.dir
-/home/leo_taha/taha_arc_cpp/build/CMakeFiles/edit_cache.dir
-/home/leo_taha/taha_arc_cpp/build/CMakeFiles/rebuild_cache.dir
