@@ -1,5 +1,7 @@
 # Local matching engine — C++20
 
+[![C++ CI](https://github.com/tahazz5/hft_taha/actions/workflows/ci.yml/badge.svg)](https://github.com/tahazz5/hft_taha/actions/workflows/ci.yml)
+
 Moteur de carnet d'ordres mono-instrument, avec priorité prix/temps, tests et replay
 textuel. Une connexion **Binance Spot Testnet** fournit les données WebSocket et
 les ordres de simulation via REST : voir [le guide Binance](docs/BINANCE.md).
